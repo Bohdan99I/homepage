@@ -66,7 +66,8 @@ body {
     margin-right: 0;
   }
 }
-Contact info styles .contact-info__header,
+
+.contact-info__header,
 .contact-info__sub-header {
   text-align: center;
 }
@@ -128,7 +129,8 @@ Contact info styles .contact-info__header,
   border: 3px solid;
   border-color: var(--text-decoration-color);
 }
-Intro and skills styles .intro {
+
+.intro {
   display: flex;
   justify-content: start;
 }
@@ -164,7 +166,8 @@ Intro and skills styles .intro {
   color: var(--secondary-text-color);
   text-align: justify;
 }
-Experience and additional info styles .experiences {
+
+.experiences {
   flex: 1 1 60%;
   margin-right: 50px;
 }
