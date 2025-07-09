@@ -18,8 +18,8 @@ body {
 
 .container {
   margin: 0 auto;
-  padding: 0 30px;
-  max-width: 900px;
+  padding: 0 20px;
+  max-width: 800px;
 }
 
 .fh {
@@ -245,6 +245,7 @@ body {
 
 .additional-info__education-university-name {
   color: var(--secondary-text-color);
+  margin-bottom: 5px;
 }
 
 .additional-info__languages {
